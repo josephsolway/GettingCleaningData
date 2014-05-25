@@ -2,7 +2,7 @@
 #Coursera - Getting and Cleaning Data 
 #Assignment 2
 #Created - Joseph Solway 5/18/2014
-#Last Updated - Joseph Solway 5/18/2014
+#Last Updated - Joseph Solway 5/25/2014
 
 #The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. 
 #The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers 
@@ -28,7 +28,7 @@
 #Load plyr package
 library(plyr)
 #Set working directory
-setwd("C:/documents/_Personal/Big_Data/Scripts/3-GetCleanData/UCI HAR Dataset")
+#setwd("C:/documents/_Personal/Big_Data/Scripts/3-GetCleanData/UCI HAR Dataset")
 
 ########################################################################
 #1 Merges the training and the test sets to create one data set.
